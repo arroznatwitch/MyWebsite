@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0px;
+    min-height: 100vh;
+    background-color: rgb(26, 26, 26);
+}
+
+.simple-text {
+    align-items: center;
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    font-family: 'Montserrat', sans-serif;
+    justify-content: center;
+    text-decoration: none;
+}
+
+a {
+    align-items: center;
+    color: rgb(72, 6, 133);
+    display: flex;
+    flex-direction: column;
+    font-family: 'Montserrat', sans-serif;
+    justify-content: center;
+    text-decoration: none;
+}
